@@ -2,7 +2,7 @@
 #### Made With ❤️ Ju-Kill  
 ```
 Thanks To :
-- Hamdan Gans
+- Surya Gans
 - Deot
 - Chenglie
 ```
