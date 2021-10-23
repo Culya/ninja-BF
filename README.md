@@ -43,5 +43,6 @@ $ pip install futures
 ```
 ## ⇨  Run Script
 ```
-$ cd ninja-BF && python ninja.jk
+$ cd ninja-BF
+$ python ninja.jk
 ```
