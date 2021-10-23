@@ -27,7 +27,7 @@
                      #   #   ###  #   #   ##
                      ########################
                       ##     ##   ##     ##
-                 gitHub : https://github.com/jukill27
-   =[ coding by Hamdan Gans ]
+                 gitHub : https://github.com/Culya/ninja-BF
+   =[ coding by Surya Gans ]
    
    
